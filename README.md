@@ -1,6 +1,3 @@
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Sugus888&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cps%2Cexit)](https://github.com/Sugus888)
-<div align="center">
-
 # SUGUS
 
 ### Industrial Automation Engineer × CNC Software Developer × Home Automation
@@ -313,6 +310,12 @@ System Architecture        [██████████████░░░�
 Graphic & Visual Design    [███████████░░░░░░░░░] 50%
 ```
 
+
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Sugus888&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cps%2Cexit)](https://github.com/Sugus888)
+<div align="center">
+
+
 ---
 
 #  Connect
@@ -324,6 +327,9 @@ Graphic & Visual Design    [███████████░░░░░░�
 </div>
 
 ---
+
+
+
 
 <div align="center">
 
