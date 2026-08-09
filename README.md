@@ -1,12 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is SuGus
-==============================================================================================================================
+<div align="center">
 
+# SUGUS
 
 ### Industrial Automation Engineer × CNC Software Developer × Home Automation
 
 **Building software and automation systems for machines, factories and smart environments.**
-
-<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sugus888-181717?style=for-the-badge&logo=github)](https://github.com/sugus888)
 [![Profile Views](https://komarev.com/ghpvc/?username=sugus888&style=for-the-badge&color=blueviolet)](https://github.com/sugus888)
@@ -15,21 +13,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-##  About Me
+## About Me
 
 I'm an **Industrial Automation Engineer & Software Developer** working across:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
-│  INDUSTRIAL AUTOMATION  →  CNC  →  SOFTWARE  →  HOME AUTOMATION    │
+│  INDUSTRIAL AUTOMATION  →  CNC  →  SOFTWARE  →  HOME AUTOMATION  │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-My work focuses on building, integrating and troubleshooting real-world
-systems — from **CNC machines, motion control, PLC and HMI** to
-**Home Assistant, automation workflows and self-hosted infrastructure**.
+My work focuses on building, integrating and troubleshooting real-world systems — from **CNC machines, motion control, PLC and HMI** to **Home Assistant, automation workflows and self-hosted infrastructure**.
 
 I enjoy solving problems where **hardware, software and automation meet**.
 
@@ -37,11 +33,11 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-#  Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Industrial Automation
 
@@ -55,7 +51,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 - Machine Troubleshooting
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### CNC / Manufacturing
 
@@ -69,7 +65,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 - Machine Data
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Home Automation
 
@@ -88,7 +84,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-#  Software Stack
+## Software Stack
 
 ### Languages
 
@@ -115,39 +111,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-#  Automation Technology
-
-```text
-Industrial Automation
-├── PLC
-├── CNC
-├── HMI
-├── Servo
-├── Motion Control
-├── Sensors
-├── Inverter
-└── Industrial I/O
-
-CNC / Manufacturing
-├── Syntec
-├── NCStudio
-├── G-code
-├── Macro
-├── CAD / CAM
-└── Post Processor
-
-Home Automation
-├── Home Assistant
-├── Node-RED
-├── Smart Sensors
-├── Automation Workflows
-├── Dashboards
-└── Self-hosted Infrastructure
-```
-
----
-
-#  Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -155,10 +119,9 @@ Home Automation
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sugus888&repo=susim&theme=github_dark&hide_border=true" />
 </a>
 
-
 </div>
 
-###  SuSIM
+### SuSIM
 
 **CNC / G-code related software project**
 
@@ -166,16 +129,11 @@ Tools and experiments around CNC workflows, simulation and manufacturing softwar
 
 → [View Repository](https://github.com/sugus888/susim)
 
-
----
-
-###  Home Automation Lab
+### Home Automation Lab
 
 **Home Assistant × Node-RED × Self-hosted Automation**
 
-A personal automation environment for connecting devices, sensors,
-dashboards and automation workflows with a focus on local control and
-system integration.
+A personal automation environment for connecting devices, sensors, dashboards and automation workflows with a focus on local control and system integration.
 
 ```text
 Sensors / Devices
@@ -198,9 +156,9 @@ Devices / Services
 
 ---
 
-#  What I'm Building
+## System Architecture
 
-I'm interested in systems that connect the **physical world, automation and software**.
+I'm interested in systems that connect the **physical world, automation, software and data**.
 
 ```text
                          SOFTWARE
@@ -209,22 +167,28 @@ I'm interested in systems that connect the **physical world, automation and soft
              │                             │
              ▼                             ▼
        INDUSTRIAL                    HOME AUTOMATION
-             │                             │
-        ┌────┴────┐                  ┌─────┴─────┐
-        │         │                  │           │
-       PLC      CNC/HMI        Home Assistant  Node-RED
-        │         │                  │           │
-        └────┬────┘                  └─────┬─────┘
+       AUTOMATION                         │
+             │                       HA / MQTT / IoT
+       ┌─────┼─────┐                       │
+       ▼     ▼     ▼                       ▼
+      PLC   CNC   HMI                  DEVICES
+       │     │     │                       │
+       └─────┴─────┘                       │
              │                             │
              ▼                             ▼
-          MACHINE                    DEVICES / SENSORS
+          MACHINE                     SENSORS / DATA
              │                             │
              └──────────────┬──────────────┘
                             ▼
-                         DATA
+                           DATA
                             │
+                    ┌───────┴───────┐
+                    ▼               ▼
+                DATABASE        DASHBOARD
+                    │               │
+                    └───────┬───────┘
                             ▼
-                     AUTOMATION SYSTEM
+                    INTELLIGENT SYSTEM
 ```
 
 ### Areas of interest
@@ -246,31 +210,50 @@ I'm interested in systems that connect the **physical world, automation and soft
 
 ---
 
-#  GitHub Statistics
+## Systems I Work With
+
+**Industrial** · PLC · CNC · HMI · Servo · Inverter · Sensors · Motion Control  
+**CNC / CAM** · Syntec · NCStudio · G-code · Macro · CAD/CAM · Post Processor  
+**Automation** · Home Assistant · Node-RED · MQTT · IoT · Dashboards  
+**Software** · TypeScript · Python · React · Next.js · PostgreSQL · Docker
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=sugus888&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Sugus888&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cps%2Cexit)](https://github.com/Sugus888)
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sugus888&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-#  Contribution
+## Contribution
 
 <div align="center">
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sugus888)](https://github.com/LordDashMe/github-contribution-stats)
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugus888&theme=github-dark-blue&hide_border=true" />
 
+<br>
+
+[![Sugus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sugus888&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true)](https://github.com/sugus888)
+
 </div>
 
 ---
 
-#  Engineering Philosophy
+## Engineering Philosophy
 
 ```text
                  OBSERVE
@@ -300,40 +283,26 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&lay
 
 ---
 
-#  Current Focus
+## Current Focus
 
 ```text
-CNC / CAM System           [████████████████████] 90%
-Industrial Software        [█████████████████░░░] 85%
-Home Automation & IoT      [████████████████░░░░] 80%  
-Machine Data Analytics     [████████████████░░░░] 80%
-AI x Engineering Workflows [███████████████░░░░░] 75%
-System Architecture        [██████████████░░░░░░] 70%
-Graphic & Visual Design    [███████████░░░░░░░░░] 50%
+→ CNC / CAM Software
+→ Industrial Machine Data
+→ Home Automation & IoT
+→ AI-assisted Engineering
+→ Automation Software
+→ System Architecture
 ```
-
-
-
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Sugus888&theme=dracula&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cps%2Cexit)](https://github.com/Sugus888)
-<div align="center">
-
 
 ---
 
-#  Connect
+## Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sugus888-181717?style=for-the-badge&logo=github)](https://github.com/sugus888)
 
-</div>
-
----
-
-
-
-
-<div align="center">
+<br><br>
 
 ### Engineering × Automation × Software
 
