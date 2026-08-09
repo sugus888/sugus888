@@ -2,9 +2,9 @@
 
 # SUGUS
 
-### Industrial Automation Engineer × CNC Software Developer × Home Automation
+### Industrial Automation Engineer × CNC Software Developer × Machine Systems
 
-**Building software and automation systems for machines, factories and smart environments.**
+**Building, integrating and troubleshooting software-driven systems for machines, factories and smart environments.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sugus888-181717?style=for-the-badge&logo=github)](https://github.com/sugus888)
 [![Profile Views](https://komarev.com/ghpvc/?username=sugus888&style=for-the-badge&color=blueviolet)](https://github.com/sugus888)
@@ -15,19 +15,24 @@
 
 ## About Me
 
-I'm an **Industrial Automation Engineer & Software Developer** working across:
+I'm an **Industrial Automation Engineer & Software Developer** working at the intersection of machine control, CNC, HMI and software.
 
 ```text
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
-│  INDUSTRIAL AUTOMATION  →  CNC  →  SOFTWARE  →  HOME AUTOMATION  │
+│   PLC  →  HMI  →  CNC  →  SERVO / MOTION  →  MACHINE SOFTWARE    │
+│                                                                    │
+│                         ↓                                          │
+│                 AUTOMATION / DATA                                 │
+│                         ↓                                          │
+│                HOME AUTOMATION                                    │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-My work focuses on building, integrating and troubleshooting real-world systems — from **CNC machines, motion control, PLC and HMI** to **Home Assistant, automation workflows and self-hosted infrastructure**.
+My work includes **PLC programming, HMI development, CNC configuration, servo tuning, machine functions, CNC macros, troubleshooting and software development**.
 
-I enjoy solving problems where **hardware, software and automation meet**.
+I also work on **Thai machine localization**, translating and adapting industrial interfaces, terminology and workflows for real operators.
 
 > **Don't just fix the symptom. Find the root cause.**
 
@@ -37,44 +42,71 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
-### Industrial Automation
+### PLC
 
-- PLC
-- CNC Controller
-- Servo / Servo Drive
-- Motion Control
-- Inverter
-- HMI
-- Industrial I/O
-- Machine Troubleshooting
+- Delta PLC
+- Ladder Logic
+- I/O Mapping
+- Interlocks
+- Machine Sequences
+- Alarm Logic
+- GX Works
+- ISPSoft / DIAStudio
 
 </td>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
-### CNC / Manufacturing
+### HMI
 
-- CNC Router
+- Delta DOPSoft
+- MCGS / MCGSpro
+- HMI Architecture
+- PLC ↔ HMI Integration
+- Alarm / Parameter UI
+- Operator Workflow
+- Thai HMI
+
+</td>
+<td width="20%" valign="top">
+
+### CNC
+
+- Syntec IDE
+- NCStudio
+- DDCS
+- LNC
 - G-code
-- CNC Macro Programming
-- CAD / CAM
+- CNC Macro
+- Machine Parameters
 - Post Processor
-- Toolpath
-- CNC Simulation
-- Machine Data
 
 </td>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
-### Home Automation
+### Servo / Motion
+
+- Servo Commissioning
+- Servo Tuning
+- Gain Tuning
+- Motion Control
+- Pulse / Direction
+- Differential Signals
+- Servo Diagnostics
+- CNC ↔ Servo Integration
+
+</td>
+<td width="20%" valign="top">
+
+### Automation
 
 - Home Assistant
 - Node-RED
-- Automation Workflows
-- Smart Sensors
-- Device Integration
+- MQTT
+- IoT
 - Dashboards
+- Docker
 - Self-hosted Systems
 - Local Automation
 
@@ -84,30 +116,122 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-## Software Stack
+## Engineering Tools & Platforms
 
-### Languages
+### PLC / Automation
+
+![Delta](https://img.shields.io/badge/Delta%20PLC-005BAC?style=flat-square)
+![DIAStudio](https://img.shields.io/badge/DIAStudio-005BAC?style=flat-square)
+![ISPSoft](https://img.shields.io/badge/ISPSoft-005BAC?style=flat-square)
+![GX Works](https://img.shields.io/badge/GX%20Works-005BAC?style=flat-square)
+
+### HMI / SCADA
+
+![Delta DOPSoft](https://img.shields.io/badge/Delta%20DOPSoft-005BAC?style=flat-square)
+![MCGS](https://img.shields.io/badge/MCGS%20%2F%20MCGSpro-444444?style=flat-square)
+
+### CNC / Machine Control
+
+![Syntec](https://img.shields.io/badge/Syntec%20IDE-333333?style=flat-square)
+![NCStudio](https://img.shields.io/badge/NCStudio-333333?style=flat-square)
+![DDCS](https://img.shields.io/badge/DDCS-333333?style=flat-square)
+![LNC](https://img.shields.io/badge/LNC-333333?style=flat-square)
+![G-code](https://img.shields.io/badge/G--code-333333?style=flat-square)
+![CNC Macro](https://img.shields.io/badge/CNC%20Macro-333333?style=flat-square)
+
+### Software Development
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-
-### Web / Application
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Automation / Infrastructure
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Machine Software & Function Development
+
+I develop and adapt machine-side software around real manufacturing workflows — from operator interfaces to machine logic and CNC functions.
+
+```text
+                     MACHINE REQUIREMENT
+                              │
+                              ▼
+                       FUNCTION DESIGN
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+             PLC             HMI             CNC
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                       MACHINE FUNCTION
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+                OPERATOR             MACHINE
+                 WORKFLOW             LOGIC
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                         TEST / VERIFY
+```
+
+### Typical work
+
+- Custom machine functions
+- CNC macro development
+- HMI function development
+- PLC ↔ HMI integration
+- Tool and ATC workflows
+- Sensor / interlock logic
+- Alarm and error handling
+- Machine parameter handling
+- Operator workflow design
+- Production workflow improvements
+
+---
+
+## Machine Localization & Thai HMI
+
+Industrial software is not only about translating words. The interface, terminology and workflow must make sense to the operator.
+
+```text
+Original Machine Software
+          │
+          ▼
+      Localization
+          │
+     ┌────┼────┐
+     ▼    ▼    ▼
+ Language  UI  Terminology
+     │    │    │
+     └────┼────┘
+          ▼
+      Thai HMI
+          │
+          ▼
+     Operator UX
+```
+
+- Chinese / English → Thai machine terminology
+- HMI menu and screen localization
+- Alarm message localization
+- Parameter and function naming
+- Operator-oriented terminology
+- Thai machine UI development
+- Workflow adaptation for local operators
 
 ---
 
@@ -129,7 +253,17 @@ Tools and experiments around CNC workflows, simulation and manufacturing softwar
 
 → [View Repository](https://github.com/sugus888/susim)
 
-### Home Automation Lab
+### Offline Engineering Work
+
+Much of my industrial work is based on **customer machines, proprietary HMI projects, PLC programs and CNC macros**, so the original source cannot always be published.
+
+Selected work can instead be represented through sanitized examples, screenshots, diagrams and technical case studies.
+
+**Areas:** HMI · PLC · CNC Macro · Servo · Machine Functions · Troubleshooting · Localization
+
+---
+
+## Home Automation Lab
 
 **Home Assistant × Node-RED × Self-hosted Automation**
 
@@ -157,8 +291,6 @@ Devices / Services
 ---
 
 ## System Architecture
-
-I'm interested in systems that connect the **physical world, automation, software and data**.
 
 ```text
                          SOFTWARE
@@ -191,32 +323,6 @@ I'm interested in systems that connect the **physical world, automation, softwar
                     INTELLIGENT SYSTEM
 ```
 
-### Areas of interest
-
-- CNC Software
-- CAD / CAM
-- Post Processor
-- Machine Monitoring
-- Production Data
-- Industrial IoT
-- HMI Development
-- Motion Control
-- PLC / CNC Integration
-- Home Assistant
-- Node-RED Automation
-- Smart Home Systems
-- Self-hosted Infrastructure
-- AI-assisted Engineering Tools
-
----
-
-## Systems I Work With
-
-**Industrial** · PLC · CNC · HMI · Servo · Inverter · Sensors · Motion Control  
-**CNC / CAM** · Syntec · NCStudio · G-code · Macro · CAD/CAM · Post Processor  
-**Automation** · Home Assistant · Node-RED · MQTT · IoT · Dashboards  
-**Software** · TypeScript · Python · React · Next.js · PostgreSQL · Docker
-
 ---
 
 ## GitHub Statistics
@@ -228,7 +334,6 @@ I'm interested in systems that connect the **physical world, automation, softwar
 <br>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sugus888&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
@@ -288,10 +393,10 @@ I'm interested in systems that connect the **physical world, automation, softwar
 ```text
 → CNC / CAM Software
 → Industrial Machine Data
+→ Servo / Motion Control
+→ Machine Software & HMI
 → Home Automation & IoT
 → AI-assisted Engineering
-→ Automation Software
-→ System Architecture
 ```
 
 ---
