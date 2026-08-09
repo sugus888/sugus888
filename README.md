@@ -231,7 +231,6 @@ I'm interested in systems that connect the **physical world, automation and soft
 
 - CNC Software
 - CAD / CAM
-- G-code Simulation
 - Post Processor
 - Machine Monitoring
 - Production Data
