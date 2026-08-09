@@ -111,8 +111,9 @@ I also work on **Thai machine localization**, translating and adapting industria
 ![Delta](https://img.shields.io/badge/Delta%20PLC-005BAC?style=flat-square)
 ![ISPSoft](https://img.shields.io/badge/ISPSoft-005BAC?style=flat-square)
 ![GX Works](https://img.shields.io/badge/GX%20Works-005BAC?style=flat-square)
-![SyntecEHMI](https://img.shields.io/badge/Syntec%20IDE-333333?style=flat-square)
+
 ### HMI / SCADA
+
 ![SyntecIDE](https://img.shields.io/badge/Syntec%20IDE-333333?style=flat-square)
 ![Delta DOPSoft](https://img.shields.io/badge/Delta%20DOPSoft-005BAC?style=flat-square)
 ![DIAStudio](https://img.shields.io/badge/DIAStudio-005BAC?style=flat-square)
@@ -120,7 +121,7 @@ I also work on **Thai machine localization**, translating and adapting industria
 
 ### CNC / Machine Control
 
-![Syntec](https://img.shields.io/badge/Syntec%20IDE-333333?style=flat-square)
+![Syntec](https://img.shields.io/badge/Syntec%20-333333?style=flat-square)
 ![NCStudio](https://img.shields.io/badge/NCStudio-333333?style=flat-square)
 ![DDCS](https://img.shields.io/badge/DDCS-333333?style=flat-square)
 ![LNC](https://img.shields.io/badge/LNC-333333?style=flat-square)
