@@ -304,12 +304,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&lay
 # 🛠️ Current Focus
 
 ```text
-CNC / CAM                 ████████████████████░░
-Industrial Software      ██████████████████░░░░
-Home Automation          █████████████████░░░░░
-Machine Data / IIoT      █████████████████░░░░░
-AI × Engineering         ███████████████░░░░░░░
-System Architecture      ██████████████░░░░░░░░
+CNC / CAM System           [████████████████████] 90%
+Industrial Software        [█████████████████░░░] 85%
+Home Automation & IoT      [████████████████░░░░] 80%  
+Machine Data Analytics     [████████████████░░░░] 80%
+AI x Engineering Workflows [███████████████░░░░░] 75%
+System Architecture        [██████████████░░░░░░] 70%
+Graphic & Visual Design    [███████████░░░░░░░░░] 50%
 ```
 
 ---
