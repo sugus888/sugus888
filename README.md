@@ -121,13 +121,13 @@ I also work on **Thai machine localization**, translating and adapting industria
 ### PLC / Automation
 
 ![Delta](https://img.shields.io/badge/Delta%20PLC-005BAC?style=flat-square)
-![DIAStudio](https://img.shields.io/badge/DIAStudio-005BAC?style=flat-square)
 ![ISPSoft](https://img.shields.io/badge/ISPSoft-005BAC?style=flat-square)
 ![GX Works](https://img.shields.io/badge/GX%20Works-005BAC?style=flat-square)
-
+![SyntecEHMI](https://img.shields.io/badge/Syntec%20IDE-333333?style=flat-square)
 ### HMI / SCADA
-
+![SyntecIDE](https://img.shields.io/badge/Syntec%20IDE-333333?style=flat-square)
 ![Delta DOPSoft](https://img.shields.io/badge/Delta%20DOPSoft-005BAC?style=flat-square)
+![DIAStudio](https://img.shields.io/badge/DIAStudio-005BAC?style=flat-square)
 ![MCGS](https://img.shields.io/badge/MCGS%20%2F%20MCGSpro-444444?style=flat-square)
 
 ### CNC / Machine Control
@@ -159,7 +159,16 @@ I also work on **Thai machine localization**, translating and adapting industria
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
+#  Current Focus
 
+```text
+CNC / CAM System           [████████████████████] 90%
+Industrial Software        [█████████████████░░░] 85%
+Home Automation & IoT      [████████████████░░░░] 80%  
+Machine Data Analytics     [████████████████░░░░] 80%
+AI x Engineering Workflows [███████████████░░░░░] 75%
+System Architecture        [██████████████░░░░░░] 70%
+```
 ## Machine Software & Function Development
 
 I develop and adapt machine-side software around real manufacturing workflows — from operator interfaces to machine logic and CNC functions.
@@ -200,38 +209,6 @@ I develop and adapt machine-side software around real manufacturing workflows �
 - Machine parameter handling
 - Operator workflow design
 - Production workflow improvements
-
----
-
-## Machine Localization & Thai HMI
-
-Industrial software is not only about translating words. The interface, terminology and workflow must make sense to the operator.
-
-```text
-Original Machine Software
-          │
-          ▼
-      Localization
-          │
-     ┌────┼────┐
-     ▼    ▼    ▼
- Language  UI  Terminology
-     │    │    │
-     └────┼────┘
-          ▼
-      Thai HMI
-          │
-          ▼
-     Operator UX
-```
-
-- Chinese / English → Thai machine terminology
-- HMI menu and screen localization
-- Alarm message localization
-- Parameter and function naming
-- Operator-oriented terminology
-- Thai machine UI development
-- Workflow adaptation for local operators
 
 ---
 
@@ -414,3 +391,5 @@ Devices / Services
 **Build systems. Measure everything. Fix the root cause.**
 
 </div>
+
+
