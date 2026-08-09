@@ -17,18 +17,6 @@
 
 I'm an **Industrial Automation Engineer & Software Developer** working at the intersection of machine control, CNC, HMI and software.
 
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   PLC  →  HMI  →  CNC  →  SERVO / MOTION  →  MACHINE SOFTWARE    │
-│                                                                    │
-│                         ↓                                          │
-│                 AUTOMATION / DATA                                 │
-│                         ↓                                          │
-│                HOME AUTOMATION                                    │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
 
 My work includes **PLC programming, HMI development, CNC configuration, servo tuning, machine functions, CNC macros, troubleshooting and software development**.
 
