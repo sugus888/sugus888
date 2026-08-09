@@ -155,9 +155,6 @@ Home Automation
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sugus888&repo=susim&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/sugus888/su-gcode-sim">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sugus888&repo=su-gcode-sim&theme=github_dark&hide_border=true" />
-</a>
 
 </div>
 
@@ -169,15 +166,6 @@ Tools and experiments around CNC workflows, simulation and manufacturing softwar
 
 → [View Repository](https://github.com/sugus888/susim)
 
----
-
-### 🛠️ Su G-code Simulator
-
-**CNC toolpath visualization & simulation**
-
-A project focused on visualizing G-code and understanding CNC toolpaths.
-
-→ [View Repository](https://github.com/sugus888/su-gcode-sim)
 
 ---
 
