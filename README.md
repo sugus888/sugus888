@@ -15,14 +15,14 @@
 
 ---
 
-## ⚙️ About Me
+##  About Me
 
 I'm an **Industrial Automation Engineer & Software Developer** working across:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
-│  INDUSTRIAL AUTOMATION  →  CNC  →  SOFTWARE  →  HOME AUTOMATION  │
+│  INDUSTRIAL AUTOMATION  →  CNC  →  SOFTWARE  →  HOME AUTOMATION    │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
@@ -37,7 +37,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-# 🧠 Engineering Focus
+#  Engineering Focus
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-# 💻 Software Stack
+#  Software Stack
 
 ### Languages
 
@@ -115,7 +115,7 @@ I enjoy solving problems where **hardware, software and automation meet**.
 
 ---
 
-# 🏭 Automation Technology
+#  Automation Technology
 
 ```text
 Industrial Automation
@@ -147,7 +147,7 @@ Home Automation
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Home Automation
 
 </div>
 
-### 🧩 SuSIM
+###  SuSIM
 
 **CNC / G-code related software project**
 
@@ -169,7 +169,7 @@ Tools and experiments around CNC workflows, simulation and manufacturing softwar
 
 ---
 
-### 🏠 Home Automation Lab
+###  Home Automation Lab
 
 **Home Assistant × Node-RED × Self-hosted Automation**
 
@@ -198,7 +198,7 @@ Devices / Services
 
 ---
 
-# 🔬 What I'm Building
+#  What I'm Building
 
 I'm interested in systems that connect the **physical world, automation and software**.
 
@@ -247,7 +247,7 @@ I'm interested in systems that connect the **physical world, automation and soft
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -261,7 +261,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&lay
 
 ---
 
-# 📈 Contribution
+#  Contribution
 
 <div align="center">
 
@@ -271,7 +271,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&lay
 
 ---
 
-# 🧭 Engineering Philosophy
+#  Engineering Philosophy
 
 ```text
                  OBSERVE
@@ -301,7 +301,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugus888&lay
 
 ---
 
-# 🛠️ Current Focus
+#  Current Focus
 
 ```text
 CNC / CAM System           [████████████████████] 90%
@@ -315,7 +315,7 @@ Graphic & Visual Design    [███████████░░░░░░�
 
 ---
 
-# 🌐 Connect
+#  Connect
 
 <div align="center">
 
